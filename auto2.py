@@ -23,7 +23,7 @@ FIREBASE_DATA_CHANNEL = -1003825438566
 DATA_FILE = "bot_data.pkl"
 VERSION_FILE = "bot_version.txt"
 
-BOT_VERSION = "0.0.2"
+BOT_VERSION = "0.0.3"
 LAST_UPDATE_TIME = datetime.now().strftime('%d/%m/%Y %I:%M:%S %p')
 
 # ==================== Telegram Premium Emoji ====================
